@@ -16,6 +16,8 @@
           ninja
           gdb
           pkg-config
+          valgrind
+          bind
         ];
 
         buildInputs = with pkgs; [
