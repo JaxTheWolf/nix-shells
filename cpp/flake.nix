@@ -18,6 +18,7 @@
           pkg-config
           valgrind
           bind
+          perf
         ];
 
         buildInputs = with pkgs; [
