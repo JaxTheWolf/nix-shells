@@ -19,6 +19,7 @@
         valgrind
         bind
         perf
+        graphviz
       ];
 
       buildInputs = with pkgs; [
