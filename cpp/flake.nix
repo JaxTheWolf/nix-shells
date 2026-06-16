@@ -20,6 +20,7 @@
         bind
         perf
         graphviz
+        doxygen
       ];
 
       buildInputs = with pkgs; [
